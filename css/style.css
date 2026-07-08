@@ -372,3 +372,16 @@ margin-bottom:30px;
 color:#4c6173;
 
 }
+.progress{
+    color:#3b8edc;
+    font-weight:600;
+    margin-bottom:20px;
+    font-size:18px;
+}
+
+.nav{
+    display:flex;
+    gap:20px;
+    justify-content:center;
+    flex-wrap:wrap;
+}
